@@ -10,6 +10,7 @@ The project consist in design and develop a Marketplace
 - About the ***VINILART*** App:
 
 Our objective is to provide a platform for music enthusiasts to easily discover and purchase antique music albums online. We aim to satisfy the increasing demand for old albums by offering a wide selection of LPs, giving customers the opportunity to find and purchase the albums they are looking for. Our website has been designed with a user-friendly interface, including a navbar, body, and footer with all the necessary functions to provide a seamless shopping experience for our customers.
+DEMO :https://vinil-art.vercel.app/
 
 ***
 
